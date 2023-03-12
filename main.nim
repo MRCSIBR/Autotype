@@ -17,4 +17,4 @@ proc tipear(frase: string ) =
 tipear(frase)
 tipear(frase2)
 
-# La frase de texto se deberia imprimir en la misma linea [~]
+
