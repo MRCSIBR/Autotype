@@ -8,7 +8,7 @@ let frase2= "You ever have the feeling that you're not sure if you're awake or s
 
 proc tipear(frase: string ) =
   for letter in frase:
-      # Generate a random number between 92 and 232
+      # Generate a random number between n and n
       var dur = rand(108..242)
       sleep(dur)
 
