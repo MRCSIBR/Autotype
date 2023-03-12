@@ -1,5 +1,5 @@
-#@ Autotype
-Simulador de tipeo
+## Autotype
+### Simulador de tipeo
 
 Este script simula la escritura de texto en pantalla
 Con las variables random se controla la velocidad.
