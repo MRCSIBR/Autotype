@@ -1,3 +1,6 @@
+#__version: nim 1.6.0
+#__Autor: M.D. Ibarra
+
 import std/random
 import std/os
 
