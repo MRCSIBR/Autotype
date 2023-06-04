@@ -10,6 +10,9 @@ let frase2 = "You ever have the feeling that you're not sure if you're awake or 
 
 
 proc tipear(frase: string ) =
+  #[ This procedure will take a string as argument
+     and print it on screen ]#
+  
   for letter in frase:
       # Generate a random number between n and n
       var dur = rand(108..242)
