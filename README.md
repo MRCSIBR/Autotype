@@ -2,7 +2,7 @@
 ### Simulador de tipeo
 
 Este script simula la escritura de texto en pantalla.
-Con las variables rand se controla la velocidad.
+Con la variable `rand` se controla la velocidad de tipeado.
   
     rand(108..242) 
 
